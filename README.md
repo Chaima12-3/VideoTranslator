@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # VideoTransaltor
+=======
+# VideoTranslator
+
+>>>>>>> 79a2d8856264f1ca3dfea4e80e892be93170b370
 
 
 How to Use
@@ -29,3 +34,7 @@ OPENAI_API_KEY=your_key_here
 
 # frontend/.env
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+<<<<<<< HEAD
+=======
+
+>>>>>>> 79a2d8856264f1ca3dfea4e80e892be93170b370
